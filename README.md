@@ -1,4 +1,4 @@
-# johnwsl-Heart-Failure-Prediction-KNN-MLP-PSO
+# Heart-Failure-Prediction-KNN-MLP-PSO (Data Analysis and Machine Learning)
 
 ## Here, it have two studies involving data and machine learning algorithms (KNN, MLP and PSO). 
 
